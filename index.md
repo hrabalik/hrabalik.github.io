@@ -1,7 +1,7 @@
 ## Contact
 
 - Mail me at [GMail](https://gmail.com), name dot surname.
-- If you've got my number, text me on [Signal](https://signal.org).
+- Provided you've got my number, text me on [Signal](https://signal.org).
 
 ## Bio
 
