@@ -13,4 +13,4 @@
 ## Talks
 
 - [Open Problems in 3D Reconstruction](https://hiviscomp.cz/) at High Visual Computing 2024
-- [Large-scale 3D reconstruction Deployment - Successes, Challenges, Open Problems](https://youtu.be/Nr-hQG7k1bM?feature=shared&t=3531) at Image Matching: Local Features & Beyond, CVPR 2022
+- [Large-scale 3D reconstruction Deployment - Successes, Challenges, Open Problems](https://youtu.be/Nr-hQG7k1bM?feature=shared&t=3531) at [Image Matching: Local Features & Beyond](https://image-matching-workshop.github.io/cvpr2022/), CVPR 2022
